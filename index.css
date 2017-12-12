@@ -1,0 +1,61 @@
+body {
+	text-align: center;
+	background-color: #333;
+	color: white;
+	font-size: 24px;
+	font-family: comic sans ms;
+	background-image: url(imgs/blackbg.jpg);
+	background-repeat: repeat;
+	background-position: center;
+}
+h1 {
+	font-family: blippo, fantasy;
+	font-size: 72px;
+	color: #FF69B4;
+}
+footer {
+	font-size: 14px;
+	text-align: center;
+	color: #32CD32;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #FF1493;
+	font-size: 20px;
+	font-family: helvetica;
+}
+.navbar li {
+	float: left;
+}
+ol {
+	text-align: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #32CD32;
+}
+iframe {
+	border: 0;
+}
+.card {
+	padding: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
+	text-align: center;
+	border: #32CD32 solid 10px;
+	background-color: #FF1493;
+}
+.h6 {
+	color: #32CD32;
+	font-size: 30px;
+	text-align: left;
+}
